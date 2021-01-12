@@ -1,4 +1,4 @@
-# ## DIP_LAB_WORKS
+## DIP_LAB_WORKS
 **1. Develop a program to display grayscale image using read and write operation.**
 ```python
 import cv2
@@ -9,5 +9,5 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ***output:***
-![](dataset/kid.png)
+![](output_imgs/op1.png)
 ---
