@@ -9,5 +9,5 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ***output:***
-![](output_imgs/op1.png)
+![](dataset/kid.jpg)
 ---
